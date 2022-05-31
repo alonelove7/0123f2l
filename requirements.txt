@@ -1,0 +1,10 @@
+pyrogram==1.4.16
+TgCrypto
+Quart
+Hypercorn
+aiohttp
+Telethon
+requests
+cryptg
+hachoir
+werkzeug
